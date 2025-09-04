@@ -5,112 +5,13 @@ commnds
     4  git config --list
     5  git init
     6  git status
-    7  clear
-    8  git add --a
-    9  git status
-   10  git commit
-   11  git status
+    8  git add --a 
    12  git commit -m 'initial commit'
-   13  ▬
    14  git branch -M main
    15  git remote add origin https://github.com/swatikathane/Jrtp1demo.git
    16  git push -u origin main
-   17  git push -u origin main
    18  git init
-   19  git add --a
-   20  git status
-   21  git commit -m 'first comment'
-   22  git branch -M main
-   23  git remote add origin https://github.com/swatikathane/JrtpDemo2.git
-   24  git push -u origin main
-   25  git status
-   26  git commit -m
-   27  git push -u origin main
-   28  git commit -m
-   29  git commit -m 'first comment'
-   30  git add
-   31  git commit -a
-   32  git push -u origin main
-   33  git add
-   34  git status
-   35  git commit -m'yes'
-   36  git push
-   37  git init
-   38  git status
-   39  git add --a
-   40  git status
-   41  git commit -m
-   42  git commit -m'first comment'
-   43  git push -u origin main
-   44  git add
-   45  git add
-   46  clear
-   47  git add
-   48  rm -f .git/index.lock
-   49  git add
-   50  git add --a
-   51  git status
-   52  git commit -m 'updated data'
-   53  git push
-   54  clear
-   55  git init
-   56  git add
-   57  git status
-   58  git add --a
-   59  git status
-   60  git commit -m "first commit"
-   61  git branch -M main
-   62  git remote add origin https://github.com/swatikathane/Task1.git
-   63  git push -u origin main
-   64  git status
-   65  git add --a
-   66  git status
-   67  git commit -m 'pom.xml updated'
-   68  git push
-   69  git revert ac77a80
-   70  git status
-   71  git push
-   72  git revert ff0140f
-   73  git status
-   74  git push
-   75  clear
-   76  git status
-   77  git add --a
-   78  git status
-   79  git commit -m'index.jsp updated'
-   80  git push
-   81  git branc
-   82  git branch
-   83  git checkout feature
-   84  git pull
-   85  git branch
-   86  git checkout feature
-   87  touch jenkinsfile
-   88  git add --a
-   89  git commit -m 'jenkinsfile updated'
-   90  git push
-   91  git clone https://kathaneswati@bitbucket.org/swatiiiiiiiiiiiiii/studentapp.git
-   92  git status
-   93  git add --a
-   94  cd studentapp/
-   95  git status
-   96  git add --a
-   97  git status
-   98  git commit -m 'added java file'
-   99  git push
-  100  clear
-  101  git --version
-  102  git config --list
-  103  git init
-  104  git add onefile
-  105  git add <fileone>
-  106  git --version
-  107  git config --list
-  108  python testing.py
-  109  git --version
-  110  git init
-  111  ls -a
-  112  git status
+   112  git status
   113  git add testing.py
   114  git status
   115  git commit -m "added testing file"
@@ -128,4 +29,6 @@ commnds
   128  git status
   129  git remote add origin https://github.com/swatikathane/githubfordevopsW-Tws.git
   130  git remote -v
+git pull origin master
+
   131  git push origin master
