@@ -121,3 +121,11 @@ commnds
   120  git restore testing.py
   121  ls
   122  history
+  git status
+  125  git add gitcommands.txt
+  126  git status
+  127  git commit -m "commnd file added"
+  128  git status
+  129  git remote add origin https://github.com/swatikathane/githubfordevopsW-Tws.git
+  130  git remote -v
+  131  git push origin master
